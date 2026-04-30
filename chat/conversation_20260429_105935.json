@@ -1,0 +1,27 @@
+[
+  {
+    "role": "user",
+    "content": "what is temperature of sun?",
+    "model": "embeddinggemma:latest",
+    "asked_time": "2026-04-29T10:59:20.248983"
+  },
+  {
+    "role": "user",
+    "content": "what is temperature of sun?",
+    "model": "llama3.2:latest",
+    "asked_time": "2026-04-29T10:59:28.914455"
+  },
+  {
+    "role": "assistant",
+    "content": "The surface temperature of the Sun, also known as the photosphere, is approximately 5,500 degrees Celsius (9,932 degrees Fahrenheit).\n\nHowever, the core of the Sun is estimated to be around 15,000,000 degrees Celsius (27,000,000 degrees Fahrenheit). This intense heat is what powers the nuclear reactions that occur within the Sun, producing energy through nuclear fusion.\n\nHere's a breakdown of the Sun's temperature layers:\n\n* Photosphere (surface): 5,500°C (9,932°F)\n* Chromosphere: 10,000-50,000°C (18,032-90,032°F)\n* Corona (outer atmosphere): 1,000,000-2,000,000°C (1,832,000-3,632,000°F)\n\nNote that these temperatures are estimates and can vary depending on the source and method of measurement.",
+    "model": "llama3.2:latest",
+    "reply_time": "2026-04-29T10:59:31.703374",
+    "conversation_id": "20260429_105928"
+  },
+  {
+    "role": "title",
+    "content": "The Sun's surface temperature is approximately 5,500°C (9,932°F), but its core is estimated to be around 15,000,000°C (27,000,000°F).",
+    "model": "llama3.2:latest",
+    "saved_time": "2026-04-29T10:59:35.675958"
+  }
+]

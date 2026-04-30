@@ -1,0 +1,27 @@
+[
+  {
+    "role": "title",
+    "content": "This conversation has just begun.",
+    "model": "embeddinggemma:latest",
+    "saved_time": "2026-04-29T11:02:46.567259"
+  },
+  {
+    "role": "user",
+    "content": "what is temprature of moon?",
+    "model": "embeddinggemma:latest",
+    "asked_time": "2026-04-29T11:02:57.176997"
+  },
+  {
+    "role": "user",
+    "content": "what is temprature of moon?",
+    "model": "llama3.2:latest",
+    "asked_time": "2026-04-29T11:03:04.841510"
+  },
+  {
+    "role": "assistant",
+    "content": "The temperature of the Moon varies greatly between day and night, as it has no atmosphere to regulate its temperature.\n\n**Daytime Temperature:**\nDuring the lunar day (sol), which lasts about 29.5 Earth days, the temperature on the Moon's surface can reach as high as:\n\n* 127°C (261°F) in the direct sunlight\n* 107°C (225°F) in the shaded areas\n\nThis is due to the intense radiation from the Sun, which can cause the lunar regolith (soil) to heat up rapidly.\n\n**Nighttime Temperature:**\nAt night, the temperature drops dramatically to:\n\n* -173°C (-279°F) in the permanently shadowed craters near the lunar poles\n* -125°C (-193°F) in other shaded areas\n\nThis is due to the lack of atmosphere and the inability of the Moon to retain heat.\n\n**Average Temperature:**\nThe average temperature on the Moon's surface is around -10°C (14°F), which is relatively close to the temperature of space.\n\nIt's worth noting that these temperatures are averages and can vary depending on the specific location, time of day, and other factors.",
+    "model": "llama3.2:latest",
+    "reply_time": "2026-04-29T11:03:08.670547",
+    "conversation_id": "20260429_110304"
+  }
+]
