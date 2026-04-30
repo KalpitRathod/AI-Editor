@@ -1,7 +1,7 @@
 ---
 
 ## Version
-Current version: **0.1.0-dev**
+Current version: 0.1.0-dev
 
 This is an early development build. Expect frequent changes and experimental features.
 
