@@ -54,8 +54,6 @@ Run language models locally using Ollama. All data remains on your machine.
 
 ## Preview
 
-_Add screenshots or GIFs here (recommended):_
-
 - Chat interface  
 - Model switching  
 - Chat history panel  
