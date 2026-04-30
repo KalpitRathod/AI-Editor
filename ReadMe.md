@@ -1,13 +1,15 @@
-## Version
-Current version: 0.1.0-dev
-
-This is an early development build. Expect frequent changes and experimental features.
-
 # AI Editor
 
 A local-first AI chat editor with persistent memory and multi-model switching.
 
 Run LLMs locally, keep your data private, switch models dynamically, and resume conversations at any time.
+
+---
+
+## Version
+Current version: 0.1.0-dev
+
+This is an early development build. Expect frequent changes and experimental features.
 
 ---
 
